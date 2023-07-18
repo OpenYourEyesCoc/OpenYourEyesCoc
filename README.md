@@ -1,16 +1,29 @@
-### Hi there 👋
+### Mohamad Idham Bahri-@Idhamm15
+<!-- Hi there 👋 -->
 
-<!--
-**OpenYourEyesCoc/OpenYourEyesCoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 My Github Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Idhamm15">
+<img alt="OpenYourEyesCoc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OpenYourEyesCoc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<!-- <a href="https://github.com/OpenYourEyesCoc">
+<img alt="OpenYourEyesCoc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OpenYourEyesCoc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a> -->
+
+## 🚀 Languages and Tools:
+
+<a href="https://github.com/OpenYourEyesCoc">
+<img alt="OpenYourEyesCoc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpenYourEyesCoc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+
+#### **follow me**
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/openyoureyes.ofc)
+
+  [my website profile](https://OpenYourEyesCoc.github.io/mohamad.idham.bahri/)
+</p>
