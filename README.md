@@ -22,5 +22,5 @@
 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/openyoureyes.ofc)
 
-  [WEBSITE PROFILE](https://OpenYourEyesCoc.github.io/mohamad.idham.bahri/)
+  [Web Profile](https://OpenYourEyesCoc.github.io/mohamad.idham.bahri/)
 </p>
