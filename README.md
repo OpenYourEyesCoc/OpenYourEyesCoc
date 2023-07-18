@@ -1,10 +1,7 @@
-### Mohamad Idham Bahri-@Idhamm15
-<!-- Hi there 👋 -->
-
 
 ## 📊 My Github Statistics
 
-<a href="https://github.com/Idhamm15">
+<a href="https://github.com/OpenYourEyesCoc">
 <img alt="OpenYourEyesCoc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OpenYourEyesCoc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
