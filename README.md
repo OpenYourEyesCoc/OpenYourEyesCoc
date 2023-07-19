@@ -5,9 +5,9 @@
 <img alt="OpenYourEyesCoc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OpenYourEyesCoc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<!-- <a href="https://github.com/OpenYourEyesCoc">
+<a href="https://github.com/OpenYourEyesCoc">
 <img alt="OpenYourEyesCoc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OpenYourEyesCoc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a> -->
+</a>
 
 ## 🚀 Languages and Tools:
 
